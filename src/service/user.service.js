@@ -73,7 +73,6 @@ try {
         }]
     })
     return userData;
-    
 
 } catch (error) {
     console.error("Error al editar usuario, el error es: ",error);
